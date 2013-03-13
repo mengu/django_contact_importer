@@ -24,6 +24,7 @@ setup(name='django_contact_importer',
       zip_safe=False,
       install_requires=[
           # -*- Extra requirements: -*-
+          "contact_importer",
       ],
       entry_points="""
       # -*- Entry points: -*-
